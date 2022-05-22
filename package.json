@@ -33,6 +33,8 @@
 	},
 	"homepage": "https://github.com/QuentinDstl/larene#readme",
 	"dependencies": {
+		"cross-env": "^7.0.3",
+		"html-webpack-plugin": "^5.5.0",
 		"react": "^18.1.0",
 		"react-dom": "^18.1.0"
 	}
